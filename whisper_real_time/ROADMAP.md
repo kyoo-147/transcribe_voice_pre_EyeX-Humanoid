@@ -1,0 +1,5 @@
+- Automatic speech recognition: whisperX4
+- Wake word: 
+- Model AI chatbot:
+- Visualizers:
+- Bindings of noise suppression: 
